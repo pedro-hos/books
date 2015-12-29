@@ -53,6 +53,7 @@ Books I have read
 | :---: | :--- | :---: | :---: |
 | 01 | [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](http://www.casadocodigo.com.br/products/livro-ferramentas-devops) | [  ] | `Gleicon Moraes` |
 | 02 | [DevOps na prática: entrega de software confiável e automatizada](http://www.casadocodigo.com.br/products/livro-devops) | [  ] | `Danilo Sato` |
+| 03 | [Containers com Docker:  Do desenvolvimento à produção](http://www.casadocodigo.com.br/products/livro-docker) | [ X ] | `Daniel Romero` |
 
 
 ### Database
