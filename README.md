@@ -71,6 +71,7 @@ Books I have read
 | 01 | [O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software](http://www.casadocodigo.com.br/products/livro-programador-apaixonado) | [ x ] | ` Chad Fowler ` |
 | 02 | [Código Limpo](http://www.altabooks.com.br/codigo-limpo.html) | [ x ] | `Robert C. Martin (Uncle Bob)` |
 | 03 | [Controlando versões com Git e GitHub](http://www.casadocodigo.com.br/products/livro-git-github) | [ x ] | `Alexandre Aquiles e Rodrigo Ferreira` |
+| 04 | [Jenkins - Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins) | [ ] | `Fernando Boaglio` |
 
 # Resources
 
